@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.feedbackpulse/employee-surveys",
+  "title": "FeedbackPulse Employee Surveys",
+  "description": "Design employee surveys with AI: preview, prepare and save surveys. No sign-in.",
+  "version": "1.0.0",
+  "websiteUrl": "https://feedbackpulse.com/",
+  "repository": { "url": "https://github.com/FeedbackPulseApp/employee-surveys-mcp", "source": "github" },
+  "remotes": [
+    { "type": "streamable-http", "url": "https://app.feedbackpulse.com/mcp/employee-surveys" }
+  ]
+}
